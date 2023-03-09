@@ -1,3 +1,4 @@
 node_modules
 package-lock.json
 # *.log  (以log为后缀的日志文件）
+dist
